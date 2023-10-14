@@ -4,9 +4,12 @@ import { Task } from './Task';
 
 function App() {
 
-  /* states */ 
-  const [todoList, setTodoList] = useState([]); // empty array 
-  const [newTask, setNewTask] = useState("");   // empty string 
+  /* states */  
+  // empty array 
+  const [todoList, setTodoList] = useState([]); 
+  
+  // empty string 
+  const [newTask, setNewTask] = useState("");   
   
   const handleChange = (event) => {
     setNewTask(event.target.value); 
@@ -29,27 +32,29 @@ function App() {
     setTodoList(
       todoList.map((task) => 
       {
-          if (task.id === id) {
+          if (task.id === id) 
+          {
             return{...task, completed: true};
           }
-          else
-          {
-            return task; 
-          }
+          else { return task; }
       }) 
     );
   };
 
   return (
   <div className="App">
-      <div className="addTask">  
-        <h1 id="ptodo">To Do List</h1>
+      
+      <link rel="icon" href="./public/logo.png" />  
+      
+      <div className="addTask">
+        <h1 id="ptodo">MY CHECKLIST OF ITEMS</h1>
         <input placeholder = "to-do list items" onChange={handleChange}/>
         <button id="add" onClick={addTask}>+<br></br>Task</button>
       </div>
 
-        <h2 id="plist">List your items</h2>
-          <div className="list">
+      <h2 id="plist">List your items</h2>
+      
+      <div className="list">
             {todoList.map((task) => 
             {
                 return ( 
@@ -66,17 +71,5 @@ function App() {
       </div>
     );
 }
-
-/*
-  <div className="taskNotes">
-    <h1 id="notes">App Notes</h1>
-        
-    <p>Type a task in the box and then press the "+ Task" button<br></br>
-        to have your task entered.
-    </p>
-
-    <p>Click on the task to either mark it complete or delete it.</p> 
-  </div>
-*/ 
 
 export default App;
