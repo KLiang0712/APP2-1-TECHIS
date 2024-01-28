@@ -1,13 +1,18 @@
+# REACT PROJECTS FILE by KLiang0712 
+# Contents:
+A Home Page will be planned for this repository to make it stand out. 
+
+A to-do list app for adding and deleting tasks. Primary method/skill = Create-Read-Update-Delete (CRUD). 
+
+A sample Fake Store API (EMART) App for practicing online API usage and building. 
+
 # Getting Started with Create React App
+These projects was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+# Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
