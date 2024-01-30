@@ -7,6 +7,6 @@ Create-Read-Update-Delete
 
 Learn to create a task, read it in, update it, and delete a task once complete. 
 
-# Download & Use this project 
+# Test this app 
 https://github.com/KLiang0712/REACTFILE-KL0712/blob/main/README.md
 
