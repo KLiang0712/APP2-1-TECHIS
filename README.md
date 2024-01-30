@@ -1,8 +1,7 @@
 # REACT PROJECTS FILE 
 
-Created by KLiang0712 
-A Home Page will be planned for this repository to make it stand out. 
-
+Set up by KLiang0712 on October 2023
+ 
 React Projects:
 App 2-1: To-do List 
 A to-do list app for adding and deleting tasks. Primary method/skill = Create-Read-Update-Delete (CRUD). 
@@ -12,7 +11,7 @@ Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/todolist
 App 2-2: E-Commerce 
 A sample Fake Store API (EMART) App for practicing online API usage and building. 
 
-Source: 
+Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/emart
 
 # Getting Started with Create React App
 These projects was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
