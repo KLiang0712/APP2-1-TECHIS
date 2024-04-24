@@ -1,6 +1,4 @@
-# PORTFOLIO - KLSTEP2 
-Framework: REACTJS<br>
-
+# PORTFOLIO of REACTJS FRAMEWORK
 Updates for projects and coding summaries are subject to take place at any time. 
  
 # ReactJS Projects
