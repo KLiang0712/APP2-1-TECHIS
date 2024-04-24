@@ -1,5 +1,7 @@
 # PORTFOLIO - KLSTEP2 
-Framework: REACTJS<br>  
+Framework: REACTJS<br>
+
+Updates for projects and coding summaries are subject to take place at any time. 
  
 # ReactJS Projects
 1. To-Do List App<br>  
