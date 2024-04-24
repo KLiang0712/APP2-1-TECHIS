@@ -1,15 +1,14 @@
-# REACT PROJECTS FILE 
-
-Set up by KLiang0712 on October 2023
+# PORTFOLIO - KLSTEP2 
+Framework: REACTJS<br>  
  
-React Projects:
-App 2-1: To-do List 
-A to-do list app for adding and deleting tasks. Primary method/skill = Create-Read-Update-Delete (CRUD). 
+# ReactJS Projects
+1. To-Do List App<br>  
+A to-do list app for adding and deleting tasks. Primary method/skill = Create-Read-Update-Delete (CRUD).<br> 
 
-Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/todolist
+Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/todolist<br>
 
-App 2-2: E-Commerce 
-A sample Fake Store API (EMART) App for practicing online API usage and building. 
+2. EMART: Fake Store API<br>
+An E-Commerce sample project "Fake Store API (EMART)" App for practicing online API usage and building.<br> 
 
 Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/emart
 
