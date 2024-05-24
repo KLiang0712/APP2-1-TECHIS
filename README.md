@@ -1,5 +1,7 @@
 # PORTFOLIO of REACTJS FRAMEWORK
-Updates for projects and coding summaries are subject to take place at any time. 
+TECH I.S. Web Development<br>
+![bootcamp](https://github.com/KLiang0712/REACTFILE0712/assets/41204344/9c998023-dff1-43dc-8592-acee31961bfe)
+
  
 # ReactJS Projects
 1. To-Do List App<br>  
@@ -10,8 +12,9 @@ Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/todolist<br>
 2. EMART: Fake Store API<br>
 An E-Commerce sample project "Fake Store API (EMART)" App for practicing online API usage and building.<br> 
 
-Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/emart
+Source: https://github.com/KLiang0712/REACTFILE-KL0712/tree/main/emart<br>
 
+Note: Updates for projects and coding summaries are subject to take place at any time. 
 # Getting Started with Create React App
 These projects was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
