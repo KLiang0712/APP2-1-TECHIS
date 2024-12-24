@@ -3,7 +3,7 @@ TECH I.S. Web Development<br>
 ![bootcamp](https://github.com/KLiang0712/REACTFILE0712/assets/41204344/9c998023-dff1-43dc-8592-acee31961bfe)
 
 ## Description
-1. A simple HTML-CSS-JS Web Page that showcases all my react projects done at TECH I.S. Boot Camp.<br>
+1. (In Progress) A simple HTML-CSS-JS Web Page that showcases all my react projects done at TECH I.S. Boot Camp.<br>
 2. A Reference Repository that introduces the steps for using NPM commands to install and operate<br>projects done in React.JS Framework.
 
 # REFERENCE DOCUMENTATION
